@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://totallynervous.github.io/csb-voc6t/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://totallynervous.github.io/csb-voc6t/static/js/main.324bdd77.chunk.js",
-    "main.js.map": "https://totallynervous.github.io/csb-voc6t/static/js/main.324bdd77.chunk.js.map",
+    "main.js": "https://totallynervous.github.io/csb-voc6t/static/js/main.06f0a802.chunk.js",
+    "main.js.map": "https://totallynervous.github.io/csb-voc6t/static/js/main.06f0a802.chunk.js.map",
     "runtime-main.js": "https://totallynervous.github.io/csb-voc6t/static/js/runtime-main.ca1d794a.js",
     "runtime-main.js.map": "https://totallynervous.github.io/csb-voc6t/static/js/runtime-main.ca1d794a.js.map",
-    "static/js/2.e2a4a8ee.chunk.js": "https://totallynervous.github.io/csb-voc6t/static/js/2.e2a4a8ee.chunk.js",
-    "static/js/2.e2a4a8ee.chunk.js.map": "https://totallynervous.github.io/csb-voc6t/static/js/2.e2a4a8ee.chunk.js.map",
+    "static/js/2.7a33a307.chunk.js": "https://totallynervous.github.io/csb-voc6t/static/js/2.7a33a307.chunk.js",
+    "static/js/2.7a33a307.chunk.js.map": "https://totallynervous.github.io/csb-voc6t/static/js/2.7a33a307.chunk.js.map",
     "index.html": "https://totallynervous.github.io/csb-voc6t/index.html",
     "static/css/main.f29ae65a.chunk.css.map": "https://totallynervous.github.io/csb-voc6t/static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.e2a4a8ee.chunk.js.LICENSE.txt": "https://totallynervous.github.io/csb-voc6t/static/js/2.e2a4a8ee.chunk.js.LICENSE.txt"
+    "static/js/2.7a33a307.chunk.js.LICENSE.txt": "https://totallynervous.github.io/csb-voc6t/static/js/2.7a33a307.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ca1d794a.js",
-    "static/js/2.e2a4a8ee.chunk.js",
+    "static/js/2.7a33a307.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.324bdd77.chunk.js"
+    "static/js/main.06f0a802.chunk.js"
   ]
 }
